@@ -16,5 +16,3 @@ class Statistic
     echo  '<br>Requests counter: ' . ++$_SESSION['requestsCounter'];
   }
 }
-
- ?>
